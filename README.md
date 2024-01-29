@@ -4,6 +4,8 @@
 </p>
 <h3 align="center">Coding enthusiast, 17-year-old 🇫🇷 kid with 7 years of coding experience</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divonyt&label=Profile%20views&color=0e75b6&style=flat" alt="divonyt" /> </p>
+
 - 🔭 Currently in the lab cooking up some magic with a surprise
 
 - 🌱 Learning the mystical arts of Python
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divonyt&show_icons=true&theme=dark&locale=en&layout=compact" alt="divonyt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divonyt&show_icons=true&theme=dark&locale=en" alt="divonyt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divonyt&" alt="divonyt" /></p>
