@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/64529381?v=4" width=200 height=200 style="border-radius: 50%;"/>
 </p>
-<h3 align="center">Coding enthusiast, 17-year-old 🇫🇷 kid with 7 years of coding experience</h3>
+<h3 align="center">Coding enthusiast, 18-year-old 🇫🇷 kid with 8 years of coding experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divonyt&label=Profile%20views&color=0e75b6&style=flat" alt="divonyt" /> </p>
 
